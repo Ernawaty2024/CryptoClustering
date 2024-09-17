@@ -1,7 +1,10 @@
 {
     "folders": [
         {
-            "path": "."
+            "path": "../credit-risk-classification"
+        },
+        {
+            "path": "../../Data_bootcamp/Course_file/UTOR-VIRT-DATA-PT-04-2024-U-LOLC/Module 20 - Supervised-Learning/1"
         }
     ]
 }
